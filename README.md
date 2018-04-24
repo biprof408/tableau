@@ -9,3 +9,7 @@ Each code file is meant to be mostly standalone to facilitate copying and pastin
 ### Prerequisites
 
 Python
+
+### Disclaimer
+
+Some of this code will not be heavily tested. If something seems questionable, it likely is and please feel free to drop me a line
